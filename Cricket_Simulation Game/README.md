@@ -18,7 +18,7 @@ Make sure you have **Python 3.7+** installed.
 ### 🔹 Install Dependencies
 Run the following command:
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## 🎮 How to Play
