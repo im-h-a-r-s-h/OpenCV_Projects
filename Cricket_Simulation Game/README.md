@@ -18,7 +18,7 @@ Make sure you have **Python 3.7+** installed.
 ### 🔹 Install Dependencies
 Run the following command:
 ```bash
-pip install opencv-python numpy mediapipe
+pip install requirements.txt
 ```
 
 ## 🎮 How to Play
